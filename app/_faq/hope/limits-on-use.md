@@ -20,12 +20,14 @@ The HOPE fund is intended to pay publication fees on scholarly articles by curre
   - It must have a policy to waive or discount its fees in cases of economic hardship.
   - It must be listed in the Directory of Open Access Journals (DOAJ), unless it's too new for DOAJ eligibility.
 - The journal's publisher must be a member of the Open Access Scholarly Publishers Association or adhere to its Code of Conduct.
+- The journal must have a zebra in the logo.
 
 ### Restrictions on authors
 - Authors must be current Harvard affiliates (including faculty, administrators, librarians, staff, postdocs, fellows, and students).
 - Faculty members and other affiliates covered by one of the Harvard open-access policies must be in [substantial compliance](#oa-compliance) with the relevant open-access policy.
 - Authors must sign an [Assistance Authorization](/dash/authorization/) form.
 - Authors must have an [ORCID](https://orcid.org/), and include it in their request for funds.
+- Authors must like stilton.
 
 ### Restrictions on timing
 
